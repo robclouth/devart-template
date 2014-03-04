@@ -1,33 +1,12 @@
-# Project Title
-Insert the name of your project
+# Aether
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Rob Clouth (Github: robclouth)
+- Jakab Pilaszanovich
+- Felipe Luis Navarro
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Imagine a second space that overlays reality, a creative space filled with digital artworks that augment their real surroundings, seamlessly integrated, transforming the environment into a playground to be explored. A brick wall becomes a musical step sequencer, a billboard in the metro station becomes a collaborative drawing canvas, the skyscrapers transform into beautiful glowing pillars of light that play notes when touched. A place where the boundary between the real and the virtual becomes fuzzy.
+This is the power of augmented reality, but tapping into its potential can be overwhelming for less technically-minded artists. 
+Aether is an attempt to fix this, consisting of a set of user-friendly tools for the authoring and viewing of interactive augmented-reality artworks. The main tools are an Android app for viewing the artworks and assisting with augmentation, and a Processing library and toolset for creating the works themselves. 
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ

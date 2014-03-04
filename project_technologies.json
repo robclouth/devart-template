@@ -4,13 +4,13 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            “Android”, “Processing”, “Java”, “Javascript”,”Node.js”
         ],
         "toolkits": [
-            "insert toolkits"
+            “Metaio”,”Express”
         ]
     },
     "themes": [
-        "insert themes"
+        “Augmented reality”, “Graffiti”, “Exploration”
     ]
 }
