@@ -4,13 +4,22 @@
             "insert apis"
         ],
         "platforms": [
-            “Android”, “Processing”, “Java”, “Javascript”,”Node.js”
+            "Android",
+            "Processing",
+            "Java",
+            "Javascript",
+            "Node.js"
         ],
         "toolkits": [
-            “Metaio”,”Express”
+            "Metaio",
+            "Express"
         ]
     },
     "themes": [
-        “Augmented reality”, “Graffiti”, “Exploration”
+        "Augmented reality",
+        "Exploration",
+        "Graffiti",
+        "Community",
+        "Urban spaces"
     ]
 }
