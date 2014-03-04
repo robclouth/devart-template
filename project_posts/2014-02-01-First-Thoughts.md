@@ -5,6 +5,7 @@ As an introduction: we’re fascinated by the creative power of augmented realit
 Today we sat down and decided how we would like the system to work, for both the viewer and the creator:
 
 As a Viewer:
+
 1. The user opens up the Makar app and looks on the map to find a nearby artwork.
 2. They go to the site and see one of the special Makar QRCodes on a wall and scan it.
 3. Using the id contained in the QRCode, the app talks to the Makar server and retrieves the artwork information (author, comments, rating), artwork assets (code, sounds, images) and the tracking data (used for the AR tracking of the augmented scene).
@@ -13,6 +14,7 @@ As a Viewer:
 6. When the user leaves the artwork, the state is saved onto the server so that any changes remain.
 
 As a Creator:
+
 1. Firstly, the creator logs into the Makar system and creates a new Artwork, and they are given a unique QR code to print out.
 2. The creator finds a space they want to augment.
 3. The creator points the device at the space and if the app says its suitable, starts tracking it.
