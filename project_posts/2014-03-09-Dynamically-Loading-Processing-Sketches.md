@@ -13,7 +13,7 @@ Now you have loaded the sketch!
 That was the easy part. 
 Actually running the sketch isn’t so simple. There were three general problems to solve.
 
-#Problems
+##Problems
 1. How to initialise and start the sketch from the outside.
 2. How to setup the data directory.
 3. How to draw the sketch to a canvas of our choosing.
@@ -21,7 +21,7 @@ Actually running the sketch isn’t so simple. There were three general problems
 
 To work out what to do here took hours of digging through the Processing source, so hopefully this will save someone somewhere a bit of time.
 
-#Solutions
+##Solutions
 1. Do this:
 ```
 child.g = parent.g; //replaces the sketch drawing canvas with our own

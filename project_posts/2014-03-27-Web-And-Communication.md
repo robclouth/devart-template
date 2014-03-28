@@ -1,6 +1,5 @@
-##Website and communication
-
-#Intro
+#Website and communication
+##Intro
 
 One of the main points of our development goals was to make the sketch creation process as seamless as possible. We wanted the creators to be able to be inspired by a spot, track it with the Makar app and have it at their hands in the easiest and most convenient way possible.
 
@@ -8,7 +7,7 @@ Taking this as a starting point we decided to create our custom website where pe
 
 One of the biggest advantages of Node is that it’s super simple to add “modules” which take care of different functionalities inside the server. We implemented the main functions of the server using these modules, for example passport.js (http://passportjs.org/) for the user login and authentication,  socket.io (http://socket.io/) for the real0time communication or mongoose.js (http://mongoosejs.com/) to interact with our MongoDB database.
 
-#Code
+##Code
 
 The idea was that after tracking the given spot, the creator can go online and create a sketch (after signup/login). We wanted to make it possible to give some additional information to the sketch like title, description, etc, so we saved these in the Sketch collection. When saving the new collection, it was important to bear in mind that a QR code should be generated that’s uniquely relates to the sketch. As it turned out, it was quite a simple task, just by adding the “qrcode” Node module to our server
 ```
