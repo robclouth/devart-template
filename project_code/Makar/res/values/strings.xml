@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Makar</string>
+	<string name="metaioSDKSignature">bq0fpaFj0mnUZsXdAbTFfPoJEKC6K3nPISgfCQrRem0=</string>
+	<string name="trackingInstructions">Move the phone horizontally to track the scene. If the scene is tracked successfully, a textured cube will appear. If the cube seems fixed to the environment when you move, the tracking is good. Otherwise, try retracking. When you\'ve got good tracking, hit \'Next\'.</string>
+	<string name="photoInstructions">Take at least 4 photos of the scene from different angles. These will be used to preview the sketch when you\'re developing it. When you have enough, tap \'Finish\' to save the scene. That\'s it!</string>
+	
+</resources>

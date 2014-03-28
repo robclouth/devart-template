@@ -1,0 +1,17 @@
+<?xmlversion="1.0"?>
+<TrackingData>
+       <Sensors>
+              <SensorType="SLAMInitializationSensorSource">
+                     <SensorID>StereoInitialization1</SensorID>
+                     <Parameters>
+                           <FeatureDescriptorAlignment>gravity</FeatureDescriptorAlignment>
+                           <BaseLineAngleThreshold>8</BaseLineAngleThreshold>
+                           <NumExtensibleFeatures>1000</NumExtensibleFeatures>
+                           <MapName>slam.raw</MapName>
+                     </Parameters>
+                     <SensorCOS>
+                           <SensorCosID>Map3D</SensorCosID>
+                     </SensorCOS>
+              </Sensor>
+       </Sensors>
+</TrackingData>
