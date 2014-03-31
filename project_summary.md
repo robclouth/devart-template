@@ -3,7 +3,6 @@
 ## Authors
 - Rob Clouth (Github: robclouth)
 - Jakab Pilaszanovich
-- Felipe Luis Navarro
 
 ## Description
 Imagine a second space that overlays reality, a creative space filled with digital artworks that seamlessly augment their real surroundings, transforming the environment into a playground to be explored. A brick wall becomes a musical step sequencer, a billboard in the metro station becomes a collaborative drawing canvas, the skyscrapers transform into beautiful glowing pillars of light that play notes when touched. A place where the boundary between the real and the virtual becomes fuzzy. This is the power of augmented reality, but tapping into its potential can be overwhelming for less technically-minded artists. 
